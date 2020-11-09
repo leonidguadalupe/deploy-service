@@ -1,0 +1,12 @@
+[submodule "battle-service"]
+	path = battle-service
+	url = https://github.com/leonidguadalupe/battle-service.git
+[submodule "matchmaking-service"]
+	path = matchmaking-service
+	url = https://github.com/leonidguadalupe/matchmaking-service
+[submodule "nihonggo-service"]
+	path = nihonggo-service
+	url = https://github.com/leonidguadalupe/nihonggo-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/leonidguadalupe/user-service.git
